@@ -1,2 +1,2 @@
 # aminovainc.github.io
-Under Construction Page for Aminova Inc.
+Landing Page for aminova inc.
